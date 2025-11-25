@@ -1,0 +1,98 @@
+Fair Play and Prohibited Trading Practices | My Funded Futures Help Center
+
+All Collections
+Traders Evaluation
+Fair Play and Prohibited Trading Practices
+Prohibited Trading Practices
+Updated over a week ago
+
+The simulated market, while robust, isn’t without disparities. At MyFundedFutures (MFFU), we recognize challenges for the platform and traders. Ensuring a fair, transparent trading environment is key, so we have policies against exploiting the simulation.
+
+Section 1: Automated Trading Protocols
+- High-frequency trading not allowed on our plans.
+- Automated strategies allowed IF NOT exploiting sim fills.
+- Live automated traders must follow CME guidelines.
+
+Section 2: Order Management and Market Conduct
+- No placing multiple limit orders at the same price for fill manipulation.
+- No gapped/illiquid market exploitation.
+- No exploiting lack of slippage/tight brackets.
+- No Tier 1 data releases trading.
+- Follow all CME Group rules.
+- No collaborating for identical/opposite strategies on unconnected accounts.
+
+Section 3: Termination Policies
+- MFFU may terminate agreements for violations.
+- Profits from violations are confiscated.
+- All evaluations may be reviewed; cheats lose funding and refunds.
+
+Section 4: Device Sharing & Copy-Trading
+- Every trader must run their own trades from their own device.
+- No copy-trading or device-sharing—violators risk bans.
+
+Section 5: Hedging
+- No hedging, defined as holding buy and sell positions in same underlying (e.g., E-Mini and Micro NQ).
+
+Commitment to Ethical and Fair Trading: Respect the guidelines for a healthy community.
+
+The simulated market, while a robust and close approximation of live trading conditions, isn’t without its disparities. At MyFundedFutures (MFFU), we recognize the challenges this presents to our platform, our funding partners, and most importantly, our traders. Ensuring a fair, transparent, and equitable trading environment is paramount to us, and as such, we've established policies to safeguard against practices that exploit the simulated environment or misalign with ethical trading.
+
+ 
+
+Understanding the Simulated Market Challenges
+
+Certain trading strategies may exploit the simulated fill algorithm, performing well in the evaluation stage but inevitably resulting in losses when transitioned to live markets. A small subset of traders, either inadvertently or with the intent to manipulate the system, engage in these strategies, which are strictly prohibited at MFFU.
+
+ ​
+
+Section 1: Automated Trading Protocols
+
+High-frequency Trading is not allowed on our plans. 
+​
+Traders may make use of automated trading strategies tailored to their own specific settings so long as these automated tools do not aim to exploit the favorable fills offered in the Simulated Environment. 
+
+ 
+
+Traders trading live accounts with automated trading must abide by CME guidelines. 
+Section 2: Order Management and Market Conduct
+​
+
+MFFU emphasizes ethical trading practices and order management to ensure a stable and reliable trading environment:
+
+●     Order Placement: Simultaneously placing multiple limit orders at the same price to manipulate order fills is prohibited.
+
+●     Gapped or Illiquid Market Trading: Initiating trades to profit from isolated fills in these markets is not allowed.
+
+●     Slippage and Bracket Usage: Exploiting the absence of slippage and utilizing tight brackets to gain from favorable fills are not permitted.
+
+●     Tier 1 Economic Data Trading: Engaging in trades during tier 1 economic data releases is restricted.
+
+●     Compliance with CME Group Rules: All trading activities must adhere to CME Group's rules and regulations.
+
+●     Collaborative Trading: Collaborating with others to execute identical or opposite strategies across unconnected accounts is prohibited.
+​
+​
+
+Section 3: Termination Policies and Violation Consequences
+​
+
+MFFU holds the right to enforce strict consequences in the event of policy violation:
+
+●     Termination: MFFU reserves the right to terminate agreements immediately in the event of any breach by the trader.
+
+●     Profit Confiscation: Profits generated from prohibited trading practices will be confiscated.
+
+●     Evaluation Review: All passed evaluations are subject to review, and traders found guilty of policy ignorance or abuse will not be funded and may not be eligible for refunds.
+
+
+​Section 4: Device Sharing & Copy-Trading other Traders
+​
+Each individual trader is required to maintain their own individual trading activity. Meaning, entering, exiting and cancelling their own trade executions. Traders are not permitted to copy trade one another by entering, exiting or cancelling trade positions. 
+Each individual trader may not use the same device (tablet, phone or computer) as used by another trader.
+If this is not respected, then it could lead to permament restrictions from using our services
+​
+​
+​Section 5: Hedging
+​
+MyFunded Futures prohibits hedging of any kind. Hedging is defined as a trader entering both buy and sell positions on the same underlying asset, at the same time. 
+For example: E-Mini NQ and Micro NQ have the same underlying asset which is NQ (Nasdaq)

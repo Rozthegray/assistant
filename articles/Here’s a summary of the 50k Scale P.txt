@@ -1,0 +1,48 @@
+Here’s a summary of the **50k Scale Plan Flex Add-On** at MyFundedFutures, with everything you need to know:
+
+***
+
+**What is the Flex Add-On?**
+- **Flex Add-On introduces a new payout structure for the 50k Scale Plan.**
+- It is **FREE** when purchasing the $50k Scale Plan ($127).
+- **Must be added at purchase**—cannot apply retroactively.
+- **Foundational rules (evaluation, live transition)** remain unchanged; only payout rules are different.
+
+***
+
+**How Flex Payouts Work**
+- After **5 winning days** (each with Net PNL ≥ $100), you become eligible for a payout request.
+- **Payout Amount:** You can request **50%** of your net profits per payout, up to a **maximum of $6,000**.
+- The **other 50% of profits stays in your account.**
+- Standard **80/20 profit split** applies (you keep 80%, firm receives 20%).
+- **Minimum payout request is $250.**
+- After the first payout, **Maximum Loss Limit resets to $50,100**.
+
+**Example Calculations**
+- **Example #1:** Make $5,000 profit in 5 qualifying days:
+  - Payout eligible: $2,500 (50%)
+  - After 80/20 split: Receive $2,000
+  - $2,500 remains in account
+
+- **Example #2:** Make $20,000 profit:
+  - Payout eligible: capped at $6,000
+  - After 80/20 split: Receive $4,800
+  - $14,000 remains in account
+
+***
+
+**Additional Rules & Features**
+- **News Trading Allowed:** During simulated funded stage.
+- **Scaling Rules:** Contract limits update according to account balance (at end-of-day):
+  - Below $1,500: 2 minis / 20 micros
+  - $1,500 – $2,000: 3 minis / 30 micros
+  - Above $2,000: 5 minis / 50 micros
+
+***
+
+**Key Points**
+- **Evaluation and live transition rules are NOT affected by the Flex Add-On.**
+- **Flex is only available for a LIMITED TIME.**
+- More flexibility and potentially higher payout requests, but balances are built for scaling longer-term trading.
+
+Let me know if you want a table comparison between the standard 50k Scale Plan and the Flex Add-On!

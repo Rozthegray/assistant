@@ -1,0 +1,57 @@
+1-STEP CHALLENGE SUMMARY
+Drawdown Rules
+MAX EOD Trailing Drawdown:
+
+3% of initial balance
+
+Drawdown locks at Initial Balance + $100 when balance reaches 3% + $100
+
+During Challenge:
+
+4% for $50K account
+
+Example Trailing Lock Points:
+
+$52.1K → Trailing locks at $50.1K
+
+$103.1K → Trailing locks at $100.1K
+
+$154.6K → Trailing locks at $150.1K
+
+$100 Reset Fee (if needed)
+
+Account & Payouts
+Payouts: Every 14 days
+
+Up to 10 Total Accounts
+
+3 Sim Funded
+
+1 Live Funded
+
+Profit Split:
+
+100% of the first $10K
+
+90% thereafter
+
+Important Rules
+If you withdraw past Max Drawdown level, the account is forfeited.
+
+Must leave a buffer to continue trading.
+
+Up to $600K Funding Available
+
+Minimum Trading Day: 1
+
+Special Notes
+Starter Only
+
+No Consistency Rules in Challenge Phase
+
+40% Rule in Funded Phase:
+
+Profits from one trading day cannot be greater than, or equal to, 40% of total profits made.
+
+This rule will NOT fail your account.
+

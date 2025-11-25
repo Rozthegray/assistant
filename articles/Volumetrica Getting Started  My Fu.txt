@@ -1,0 +1,17 @@
+Volumetrica: Getting Started | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Volumetrica: Getting Started
+Updated over a week ago
+
+Getting started into Volumetrica web platform is user-friendly:
+- Click Login to Volumetrica from dashboard.
+- Enter platform credentials (sent by MFFU via email).
+
+Feed Selection:
+- After login, select dxFeed to connect.
+- To pick the asset, click near timeframes upper-right, enter asset symbol (e.g., NQ, CL).
+- Click on the contract to load chart. Adjust timeframe and click Apply.
+
+For connection issues, contact support.

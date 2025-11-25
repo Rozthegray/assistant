@@ -1,0 +1,100 @@
+Starter Account Overview
+
+Qualify fast for a live funded account with MyFundedFuture Starter plan — no consistency rules and payouts in as little as 5 days.
+
+Note: The $100k and $150k Starter accounts are no longer available.
+
+At MyFunded Futures, we understand that a trader's career hinges on their ability to progress without compromise. To support this progression from simulated funding stages to live funding stages, we have introduced the Starter Account at MyFunded Futures.
+
+Main Objective: Transition to Live Funding
+Our primary objective is to guide traders toward stable income and promote them to a live funding environment.
+
+The Starter Plan is designed to nurture a mindset focused on steadily growing the account.
+
+Note: In the evaluation stages there aren't any consistency rules. Traders may pass the evaluation in a single trading day.
+
+Benefits of the Starter Account
+
+Easiest Path to Live Funding: Consistent traders can be utilized for proprietary funding methods.
+Potential Weekly Payouts: After five winning days, traders can receive payouts, e.g., 5 days of $100 (50K account).
+Daily Loss Limits: Ensure you have another day to survive in the markets. Daily Loss Limit does not disqualify your account.
+Competitive Pricing: Low barrier of entry with some of the most competitive prices in the market.
+No Buffer Zone: No buffer zone in starter plans. Reach 5 profitable days, eligible for payout. Drawdown moves to balance +100 at payout request.
+
+Starter Account Parameters
+
+Parameters             Starter 50K   Starter 100K   Starter 150K
+Profit Target          $3,000         $6,000         $9,000
+Maximum Loss Limit     $2,500         $3,500         $5,000
+Daily Loss Limit       $1,200         $2,400         $3,600
+Price                  $97            NA             NA
+Reset                  $97           $150           $220
+Max Contract          3 minis       6 minis        9 minis
+Scaling               Yes           Yes            Yes
+Consistency           40% (Funded only)
+Qualification for Payouts
+5 winning days of $100/ possibility of weekly payouts
+5 winning days of $200/ possibility of weekly payouts
+5 winning days of $300/ possibility of weekly payouts
+
+Withdrawal Limit
+Up to $1,200 for each payout until 30 winning days or 5 payouts achieved. After first payout, Maximum Loss Limit moves to $50,100
+Up to $2,400 for each payout until 30 winning days or 5 payouts achieved. After first payout, Maximum Loss Limit moves to $100,100
+Up to $3,600 for each payout until 30 winning days or 5 payouts achieved. After first payout, Maximum Loss Limit moves to $150,100
+
+Live Funding
+Static Account with $2,500 in balance. Eligible after 30 winning days or 5 payouts
+Static Account with $3,500 in balance. Eligible after 30 winning days or 5 payouts
+Static Account with $5,000 in balance. Eligible after 30 winning days or 5 payouts
+
+Profit Split: 90/10 after $10,000 in withdrawals
+Activation Fee: None
+
+Withdrawal Limitations for Starter Sim Funded Plans
+
+To ensure solid capital standing and a safety net for transitioning to live funding stages, withdrawal limitations apply by account size:
+
+Account Size Max Payout after 5 Winning Days
+50K      $1,200
+100K     $2,400
+150K     $3,600
+
+After 30 winning days or max payouts, you move to live account for more freedom.
+
+The Scaling Plan: Ensuring Safe Growth
+Known as the Piggy Bank method at MyFundedFutures. Enables you to scale micros, allow easy partials, and daily account growth.
+
+Account Size
+50K Starter    100K Starter   150k Starter
+Below $1,000      1 mini/10 micros   2 minis/20 micros 2 minis/20 micros
+$1,000-$2,000     2 minis/20 micros  3 minis/30 micros 3 minis/30 micros
+$2,000-$3,000     3 minis/30 micros  4 minis/40 micros 4 minis/40 micros
+$4,000-$6,000     -                 6 minis/60 micros 6 minis/60 micros
+Above $6,000      -                 -                9 minis/90 micros
+
+Frequently Asked Questions
+Are there consistency rules in evaluation?  
+No. The 40% consistency rule applies only to the funded stage and resets after each payout.
+
+Is scaling rule present in evaluation?  
+Not present in evaluation, but is present in Sim Funded stages.
+
+Will hitting the Daily Loss Limit fail my account?  
+No. It's a soft-breach; stops you for the trading day.
+
+Are there buffer zones in the Starter Account payout policy?  
+No. No buffer zone on New Starter Accounts.
+
+Are there activation fees?  
+No activation fees.
+
+What's the minimum payout amount?  
+$250.
+
+Do I need to be net positive between payout cycles?  
+Yes, net positive by at least $500 to request a payout.
+
+Can I trade on live and sim at the same time?  
+No, not allowed.
+
+If further questions, contact MyFundedFutures customer support.

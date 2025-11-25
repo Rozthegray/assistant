@@ -1,0 +1,30 @@
+STARTER & STARTER PLUS SCALING PLAN
+Profit Made Ranges
+Below $1,000
+
+$1,000 - $2,000
+
+$2,000 - $4,000
+
+$4,000 - $6,000
+
+Above $6,000
+
+Contract Limits (Minis or Micros)
+Account Size	Below $1,000	$1,000-$2,000	$2,000-$4,000	$4,000-$6,000	Above $6,000
+$50,000 Minis	11	22	33	—	—
+$50,000 Micros	10/5	20/10	30/15	—	—
+$100,000 Minis	22	33	44	66	—
+$100,000 Micros	20/10	30/15	40/20	60/30	—
+$150,000 Minis	—	33	44	66	99
+$150,000 Micros	—	30/15	40/20	60/30	90/45
+(Note: Micros counts are given as two numbers; for example, "10 5" seems to represent two related micro contract figures, possibly for different types or stages.)
+
+Important Notes:
+This scaling plan applies to Tradovate Starter and Starter Plus Sim Funded accounts.
+
+The scaling plan means you cannot open more contracts than the specified amount allowed according to your end-of-day balance.
+
+Your allowed contract size adjusts as your profit grows.
+
+You must follow the position sizing rules based on your current balance and profit level at the end of each trading day.

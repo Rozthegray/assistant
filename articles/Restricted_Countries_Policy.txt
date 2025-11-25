@@ -1,0 +1,32 @@
+Restricted Countries Policy
+
+At MyFunded Futures, while we strive to provide opportunities worldwide, we are unable to accept traders from the below countries due to regulatory restrictions and compliance requirements. We apologize for any inconvenience caused.
+
+To ensure platform integrity and legal compliance, traders must be of legal age and complete KYC/identity verification. This includes submitting government-issued ID, proof of address, and any other documents necessary for compliance.
+
+Restricted Countries List:
+A-C                 C-L         M-S          S-Z
+Afghanistan         Cuba        Mauritius    Slovenia
+Albania             Democratic Republic of Congo   Macedonia         Somalia
+Algeria             Ecuador    Malaysia     South Africa
+Angola              Ethiopia   Mali         South Sudan
+Bahamas             Ghana      Mongolia     Sri Lanka
+Barbados            Gibraltar  Montenegro   Sudan
+Belarus             Haiti      Mozambique   Syria
+Bosnia & Herzegovina  Hong Kong  Nicaragua  Taiwan
+Botswana            Iceland    Namibia      Tanzania
+Bulgaria            Indonesia  Nigeria      Trinidad and Tobago
+Burkina Faso        Iran       North Korea  Tunisia
+Burma (Myanmar)     Iraq       Pakistan     Turkey
+Burundi             Jamaica    Panama       Uganda
+Cambodia            Jordan     Papua New Guinea  Ukraine
+Cameroon            Kosovo     Philippines  United Arab Emirates
+Central African Republic  Kenya   Qatar        Vietnam
+China               Laos       Romania      Venezuela
+Côte d'Ivoire       Lebanon    Russia       Yemen
+Crimea              Liberia    Serbia       Zimbabwe
+Croatia             Libya      Senegal
+
+Register for MFFU if you are not from a restricted country and meet eligibility criteria.
+
+All traders must comply with our KYC/AML procedures for platform safety and compliance.

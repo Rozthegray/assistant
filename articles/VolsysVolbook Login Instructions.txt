@@ -1,0 +1,31 @@
+Volsys/Volbook: Login Instructions | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Volsys/Volbook: Login Instructions
+Updated over a week ago
+
+Getting started into Volsys/Volbook is a straightforward process. Simply click the Downloads button from your MFFU dashboard, select Volsys/Volbook, and you will be directed to log in to the dxFeed web platform.
+When you click the link, you will be prompted to log in with your platform credentials, which MyFundedFutures will send you via e-mail.
+
+Login Screen:
+When you reach the login screen, you will be prompted to enter your credentials. Please enter them carefully, as the password is case-sensitive, and you will gain access to the dxFeed dashboard.
+
+Looking to Get Funded to trade on Volsys/Volbook? Start here.
+
+Once you log in to dxFeed:
+- Please select your preferred platform.
+- Sign the platform agreements to proceed.
+- Go to Download Platform section on your dxFeed dashboard and download the setup for your chosen platform.
+- Launch the Volsys/Volbook desktop platform.
+
+In the Startup Wizard, select the Exchange(s) from which you would like to receive market data (CME, COMEX, CBOT, NYMEX).
+Select dxFeed as the Feed source and Propfirm as the server. Enter your login credentials from your MFFU dashboard.
+
+Feed Selection:
+After completing the setup, the Volsys/Volbook dashboard will launch. To connect your MFFU trading account, ensure you select the data feed to confirm connection to dxFeed. Without selecting a data feed, trading on the platform will not be possible.
+Select a connection on the Volsys/Volbook dashboard, choose MFFU, and verify connection (green dot). You are now online and ready to trade via Volsys/Volbook!
+
+Explore MyFundedFutures Coupon Codes Here.
+
+For setup issues, contact support at [email protected]

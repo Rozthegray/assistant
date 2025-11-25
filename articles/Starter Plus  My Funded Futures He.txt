@@ -1,0 +1,299 @@
+Starter Plus
+Updated over a week ago
+At MyFundedFutures, we believe that a trader’s career hinges on their ability to progress without compromise. Our goal remains to support this progression from simulated funding stages to live funding stages, ensuring every trader has the opportunity to succeed.
+
+ 
+
+With this in mind, we announce that we are keeping the Starter Plus plan permanently! 
+
+ 
+
+This plan features the following:
+
+50% consistency rule in the evaluation stage ONLY
+
+No consistency requirements, once you are funded
+
+Daily Loss Limit (DLL) removed in the evaluation and funded stages
+
+No T1 News rule to follow in the evaluation and funded stages
+
+Get Started Now
+You get to enjoy all the current features of a Starter Plus account and be funded in as little as two days. In the Sim Funded stage of the Starter Plus plan, there is now no consistency rules to follow. Daily loss limits and t1 news rules are also removed. 
+
+ 
+
+The following benefits remain in place for the Starter Plus plan:
+
+Easiest path to live funding. Achieve 30 winning days or 5 payouts on your sim funded.  
+
+Potential Weekly Payouts. After five winning days, traders can receive a payout. 
+
+Five days of $100 for the $50k Account
+
+Five days of $200 for the $100k Account
+
+Five days of $300 for the $150k Account
+
+No Buffer Zone. Drawdown will move to initial balance plus $100 after first payout request. 
+
+The Main Objective Remains: Transitioning You to Live Funding
+MyFundedFutures' primary objective is to guide traders toward stable income and promote them to a live funding environment. We are confident that our new offering can achieve this goal. The Starter Plus Plan is designed to nurture a mindset focused on steadily growing the account. 
+
+ 
+
+Trade the Starter Plus Plan with any of our offered trading platforms:
+
+CQG: TradingView, Tradovate, NinjaTrader.
+​dxFeed: Quantower, Volumetrica Web, VolSYS, VolBook, ATAS.
+
+ 
+
+Choose the best one that suits your needs. 
+​
+
+Starter Plus Account Parameters 
+Parameters
+
+Starter 50K
+
+Starter 100K
+
+Starter 150K
+
+Price
+
+$127
+
+$267
+
+$377
+
+Profit Target
+
+$3,000
+
+$6,000
+
+$9,000
+
+End of Day Drawdown (EOD DD)
+
+$2,000
+
+$3,000
+
+$4,500
+
+Evaluation Reset
+
+$127
+
+$267
+
+$377
+
+Contracts on Eval
+
+3 minis – 30 micros
+
+6 minis – 60 micros
+
+9 minis – 90 micros
+
+Contracts on Sim Funded
+
+3 minis – 15 micros
+
+6 minis – 30 micros
+
+9 minis – 45 micros
+
+Consistency
+
+50% (Evaluation only)
+
+50% (Evaluation only)
+
+50% (Evaluation only)
+
+Qualification for Payouts
+
+5 winning days of $100
+
+5 winning days of $200
+
+5 winning days of $300
+
+Withdrawal Limit
+
+Up to $1,200 for each payout until 30 winning days or 5 payouts achieved. 
+
+After the first payout, Maximum Loss Limit moves to $50,100
+
+Up to $2,400 for each payout until 30 winning days or 5 payouts achieved. 
+
+After the first payout, Maximum Loss Limit moves to $100,100
+
+Up to $3,600 for each payout until 30 winning days or 5 payouts achieved. 
+
+After the first payout, Maximum Loss Limit moves to $150,100
+
+Live Funding
+
+Static Account with $2,500 in balance. 
+
+Eligible after 30 winning days or 5 payouts
+
+Static Account with $3,500 in balance. 
+
+Eligible after 30 winning days or 5 payouts
+
+Static Account with $5,000 in balance. 
+
+Eligible after 30 winning days or 5 payouts
+
+Profit Split
+
+90/10 after $10,000 in withdrawals
+
+90/10 after $10,000 in withdrawals
+
+90/10 after $10,000 in withdrawals
+
+Activation Fee
+
+None
+
+None
+
+None
+
+ 
+ 
+
+ 
+
+Withdrawals Limitations for the Starter Plus Sim Funded Plans
+Account Size
+
+Max Payout after 5 Winning Days
+
+50K Account
+
+$1,200
+
+100K Account
+
+$2,400
+
+150K Account
+
+$3,600
+
+ 
+ 
+
+Scaling Plan Breakdown
+
+For starter plus evaluation accounts, you can open a maximum number of contracts per account size for the entire evaluation period.
+ For the $50,000 account, it is 3 mini or 30 micro contracts.
+
+For the $100,000 account, it is 6 mini or 60 micro contracts.
+
+For the $50,000 account, it is 9 mini or 90 micro contracts.
+
+ 
+
+For starter plus simulated funded accounts, you can only open half as many micros as you could during the evaluation stage. This is the starter plus scaling plan. You start with the minimum contract size for the associated account size, and as you make more profits, you will be able to open more contracts. 
+
+
+STARTER PLUS SCALING PLAN
+
+My Funded Futures
+
+$ PROFIT MADE
+
+Below $1,000
+
+$1,000 - $2,000
+
+$2,000 - $4,000
+
+$4,000 - $6,000
+
+Above $6,000
+
+minis
+
+1
+
+2
+
+3
+
+$50,000
+
+CONTRACTS (minis or micros)
+
+micros
+
+5
+
+10
+
+15
+
+$100,000
+
+$150,000
+
+minis
+
+2
+
+3
+
+4
+
+6
+
+micros
+
+10
+
+15
+
+20
+
+30
+
+minis
+
+2
+
+3
+
+4
+
+6
+
+9
+
+micros
+
+10
+
+15
+
+20
+
+30
+
+45
+
+NOTE
+
+*We have our scaling plan in Tradovate Starter Plus Sim Funded.
+*The scaling plan means that you CANNOT open more contracts than the
+allowed specified amount according to the balance in end of day that you have.

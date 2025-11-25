@@ -1,0 +1,19 @@
+SCALE RAPID ADD-ON Q&A
+
+Q: When moving to live through the scale rapid account, is the max amount transferable based on account size?
+A: Max transferable is $5,000 for Scale Rapid add-on accounts.
+
+Q: For scale plan + rapid add-on, is there a max payout per request?
+A: You can request payout above the buffer and within the $100k payout cap per user.
+
+Q: In rapid accounts do we need 5 days before payout?
+A: No. Daily payout above the $2,100 buffer.
+
+Q: For scale + rapid: I'm funded, made $1k (balance $51k). Can I request $500?
+A: Yes. After buffer of $2,100, minimum payout is $500.
+
+Q: How does drawdown work on scale account with rapid add-on?
+A: Uses Max EOD Trailing DD.
+
+Q: Is there intraday DD for scale + rapid?
+A: Yes. Intraday until reaching buffer ($2,100), then EOD DD locks at $50.1k.

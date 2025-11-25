@@ -1,0 +1,41 @@
+Payout Policy Overview, Best and Fastest Prop-Firm Payouts
+
+MyFunded Futures Payout Policy
+
+We’ve made payouts fast, simple, and structured to reward strong performance across all plan types.
+
+Instant Payout Approvals
+Most payout requests are approved instantly!
+
+Core Plan (50k) Payouts
+Earn up to $5,000
+- Request a payout after 5 winning days with at least $100 net profit per day
+- Minimum withdrawal: $250
+- Maximum request per request: $1,000
+- After your first payout, the Max Loss Limit locks at your starting balance + $100 ($50,100)
+- Payout processing time: Instant approval, sometimes up to 6–12 hours if manual review is needed
+
+Scale Plan Payouts
+Earn up to $11,250
+- Request after 5 winning days (min profit depends on plan size)
+- Payout limits increase with successful payouts
+
+Pro Plan Payouts
+Request up to $100,000 every 14 days after first trade
+- Buffer target must be met per plan
+- After first payout, Max Loss Limit locks to starting balance + $100
+- Can withdraw up to 60% of profits before clearing buffer
+
+Profit Split Structure
+Earn 80% of all profits on Core, Scale, Pro plans. Payouts are request-based and follow plan requirements.
+
+Account Lifecycle and Live Transition
+- Core & Scale: Move to Live Account after 5 payouts or 30 profitable trading days
+- Pro: Move to Live after 3 payouts or $20,000 profit milestone
+
+Why Choose MyFundedFutures
+- No daily loss limits on Core, Scale, or Pro plans
+- Transparent, rules-based payout system
+- Fast payout processing
+- Real progression path from Sim to Live
+- Trusted by over 70,000 traders

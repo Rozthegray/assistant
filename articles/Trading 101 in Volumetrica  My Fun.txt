@@ -1,0 +1,29 @@
+Trading 101 in Volumetrica | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Trading 101 in Volumetrica
+Updated over a week ago
+
+Placing trades on Volumetrica is designed to be intuitive and efficient, offering various trading methods including OCO orders.
+
+Types of Orders:
+- Market: Buy or sell at current price.
+- Limit: Set a specific price for buy/sell.
+- Stop: Trigger trade at a specified price.
+
+How to Place a Trade:
+1. Enable trading (toggle button).
+2. Select quantity, account.
+3. Choose Market/Limit/Stop.
+4. Configure OCO (Single/Multi), set brackets.
+5. SL/TP can be dragged directly on chart.
+
+Stop/Limit:
+- Click LMT Buy/Sell, hover to pick price, left-click to confirm.
+- OCO: Toggle OCO for brackets, fill out settings.
+- Multi-OCO: add via popup, set configuration, save strategy.
+
+To flatten all, use FLAT button.
+
+Support available via customer service.

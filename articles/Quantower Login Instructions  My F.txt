@@ -1,0 +1,24 @@
+Quantower: Login Instructions | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Quantower: Login Instructions
+Quantower Download and Connection Guide
+Updated over a week ago
+
+Quantower is a versatile and intuitive trading platform that provides both novice and experienced traders with advanced tools for market analysis and seamless execution across various instruments.
+
+Getting Started:
+- Download Quantower from your MFFU dashboard.
+- Install Quantower.
+- Launch Quantower.
+- On dashboard, click dxFeed to set up connections. Select MyFundedFutures. Enter your credentials (sent by email from MyFundedFutures), then click Connect.
+
+Trading:
+- Account Information: click Acc from dashboard
+- Working Orders: click Ord
+- Positions: click Pos
+- Order Entry: click OE and select instrument from Symbol tab
+- Charts: click Cht and search instrument via search bar
+
+For help, contact support at [email protected]

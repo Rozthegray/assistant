@@ -1,0 +1,76 @@
+MyFunded Futures Payout Policy
+General Notes
+Most payout requests are approved instantly!
+
+If manual review is needed, processing may take up to 6–12 business hours (weekdays).
+
+Core Plan (50k)
+Earn up to $5,000
+
+Request payout after 5 winning days with at least $100 net profit per day
+
+Min withdrawal: $250
+
+Max per request: $1,000
+
+After first payout, Max Loss Limit locks at starting balance + $100 ($50,100)
+
+Payout processing: Instantly, or up to 6–12 business hours if manual
+
+Scale Plan
+Earn up to $11,250
+
+Request payout after 5 winning days with threshold by account size:
+
+50k: $100/day
+
+100k: $200/day
+
+150k: $300/day
+
+Tiered payout limits:
+
+Payout #	50k Max	100k Max	150k Max
+1	$1,500	$3,000	$4,500
+2	$1,750	$3,500	$5,250
+3	$2,000	$4,000	$6,000
+4	$2,500	$4,500	$6,750
+5	$3,500	$5,000	$7,500
+After first payout, Max Loss Limit resets to starting balance + $100
+
+Min withdrawal: $250
+
+Processing: Instant or up to 6–12 hours if manual
+
+Pro Plan
+Request up to $100,000 every 14 calendar days from your first trade
+
+Buffer target required for payout:
+
+50k: $2,100
+
+100k: $3,100
+
+150k: $4,600
+
+Max Loss Limit locks to starting balance + $100 after first payout
+
+Withdrawal in Buffer: Can withdraw up to 60% of profits before fully clearing
+
+Min withdrawal: $1,000
+
+Max request in Sim-Funded: $100,000
+
+Profit Split Structure
+Core, Scale, Pro: Earn 80% of all profits
+
+Payouts are request-based and follow plan-specific timing/requirements
+
+Account Lifecycle & Live Transition
+Core & Scale Plans: Transition to Live Account after 5 consecutive payouts or 30 profitable trading days
+
+Pro Plan: Reviewed for Live transition after 3 payouts or $20,000 profit milestone
+
+Risk team may fast-track based on performance
+
+Excess profits beyond $100,000 sim cap may be transitioned to Live (per plan limits)

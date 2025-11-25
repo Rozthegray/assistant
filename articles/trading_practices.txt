@@ -1,0 +1,16 @@
+TRADING PRACTICES & RISK MANAGEMENT Q&A
+
+Q: Why can’t I place multiple contracts even when copying trades?
+A: Dashboard scales contracts only after EOD updates.
+
+Q: What if my trade is closed at the same price as open?
+A: Trades must be minimum 4 ticks.
+
+Q: Gold mini/micro ticker on TradingView?
+A: GCZ5 / GCZ2025 (mini), MGCZ5 / MGCZ2025 (micro)
+
+Q: Does Tradovate limit contracts?
+A: Scaling rules may affect limits; verify with Tradovate support.
+
+Q: Daily payout on rapid, is there a limit?
+A: Yes, up to $100k per user.

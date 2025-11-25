@@ -1,0 +1,10 @@
+FUNDED ACCOUNTS Q&A
+
+Q: How many funded accounts can I have?
+A: Up to 5 sim-funded (50k only). If using 100k/150k, max 3.
+
+Q: Can I trade all 150k accounts?
+A: Yes, during sim-funded.
+
+Q: Can all 150k accounts become live funded?
+A: Only one live account; others merge if eligible together.

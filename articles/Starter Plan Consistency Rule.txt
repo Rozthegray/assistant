@@ -1,0 +1,70 @@
+Starter Plan Consistency Rule
+Understanding the 40% Consistency Rule for the Starter Plan Sim-Funded Accounts
+
+Updated over a week ago
+The 40% consistency rule is a regulation for the Starter plan sim-funded account. This guide explains how the rule works, its impact on your payouts, and how traders can maintain eligibility for fast withdrawals. Whether you’re new to prop trading or aiming to optimize your sim-funded account.
+
+ 
+
+What Is the 40% Consistency Rule on the Starter Plan?
+
+ 
+
+The 40% consistency rule says to ensure that no single day’s profit exceeds 40% of your total simulated profits. This rule promotes disciplined and consistent trading, a hallmark of prop firms that encourage responsible trading.
+
+ 
+
+How does the Starter Plan 40% Consistency Rule Work?
+
+Here’s a simple example to illustrate the rule:
+
+Total Profits: $10,000
+
+Single Day’s Profit: $4,500
+
+Percentage Calculation: $4,500 /$10,000 = 45% (exceeds the 40% limit)
+
+Result: You cannot request a prop-firm payout at that moment. Your account remains active, but withdrawals are paused until the rule is satisfied.
+
+ 
+
+Get started with MFFU plans here.
+ 
+
+Why Does This Matter?
+
+ 
+
+The 40% rule prevents traders from relying on a single outsized trading day, ensuring consistent trading performance. Violating the rule doesn’t close your account—it only delays your ability to withdraw funds until you fall under 40% again.
+
+ 
+
+How to Restore Payout Eligibility
+
+ 
+
+To regain eligibility for withdrawals, continue trading until every day’s profit falls below 40% of your cumulative gains. Here’s how it works:
+
+Initial Total Profits: $10,000
+
+Problematic Day’s Profit: $4,500 (45% of total)
+
+Additional Trading: Earn $2,000 more, bringing total profits to $12,000
+
+Recalculation: $4,500/$12,000 = 37.5% (now within the 40% limit)
+
+Outcome: You can now submit a withdrawal request and access your simulated profits.
+​
+Note: Once a trader receives a payout, the 40% consistency rule resets and is applicable to the newly achieved profits during new payout cycle. 
+
+ 
+
+Tips for Complying with the Starter Plan 40% Consistency Rule:
+
+Trade Consistently: Spread profits across multiple trading days to avoid exceeding the 40% threshold.
+
+Monitor Daily Gains: Track your daily profits against your total to stay compliant.
+
+Focus on Risk Management: Use strategies that prioritize steady gains over volatile, high-risk trades.
+
+Leverage Expert Plans: If eligible, opt for plans without consistency restrictions for greater flexibility.

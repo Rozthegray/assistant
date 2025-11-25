@@ -1,0 +1,16 @@
+SUBSCRIPTIONS & MEMBERSHIP Q&A
+
+Q: Are add-ons still free?
+A: Yes, but only for new purchases.
+
+Q: Will Halloween discount rebill remain $59?
+A: Yes.
+
+Q: If I pass evaluation within 30 days, will I be charged again?
+A: No, rebill stops once funded.
+
+Q: Free reset from livestream doesn’t work?
+A: Flex add-on may block it.
+
+Q: Subscription reset rule?
+A: Subscription resets only the same account if failed at rebill.

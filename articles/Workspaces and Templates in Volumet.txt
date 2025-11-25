@@ -1,0 +1,18 @@
+Workspaces and Templates in Volumetrica | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Workspaces and Templates in Volumetrica
+Updated over 5 months ago
+
+Volumetrica supports fully customizable workspaces/layouts:
+
+To create a workspace:
+1. Configure charts, symbols, indicators as desired.
+2. Save chart as template (Save Template at top-left).
+3. At top-right, Save > Add a New Workspace. Name workspace and save for reuse.
+
+To arrange charts, click layout button for multiple configuration options.
+To customize appearance, click properties for chart themes/settings, save as template.
+
+For questions, contact support.

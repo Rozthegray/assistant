@@ -1,0 +1,11 @@
+Cross Instrument Policy | My Funded Futures Help Center
+
+All traders must follow these rules to ensure fair and compliant trading:
+
+1. Single Instrument Limit: Orders that exceed the allowed contracts on a single instrument (e.g. NQ > 2 contracts) are rejected.
+2. Cross Instrument Trading: Combining instruments (e.g. 2 minis + 20 micros) above overall limit may execute, but is NOT permitted!
+3. Intentional Rule Bypass: Trying to circumvent scaling rules is a breach (e.g. attempting to scale up by mixing instruments).
+
+Example: Starter 50k — start with 2 minis OR 20 micros. Entering 3 minis = rejected. 2 minis AND 20 micros = NOT allowed.
+
+When in doubt, ask support!

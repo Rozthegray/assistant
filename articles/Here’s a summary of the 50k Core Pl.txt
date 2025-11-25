@@ -1,0 +1,49 @@
+Here’s a summary of the **50k Core Plan Flex Add-On** at MyFundedFutures:
+
+***
+
+**What is the Core Flex Add-On?**
+- **Introduces an alternative payout structure to the standard 50k Core Plan.**
+- **FREE** when you purchase a 50k Core Plan ($77).
+- Must be **added at checkout** (cannot be applied after purchase).
+- Available for a **limited time**.
+- **Evaluation and live transition rules remain unchanged**—only the payout structure is different.
+
+***
+
+**How Flex Payouts Work**
+- **Eligibility:** After **5 winning days** (each net PNL ≥ $100), you can request a payout.
+- **Payout Amount:** You can request **50% of your net profit per payout, capped at $3,000**.
+- **Other 50% remains in your account.**
+- **Standard 80/20 Profit Split applies:** You keep 80%, MFFU receives 20%.
+- **Minimum payout request:** $250.
+- **Maximum Loss Limit:** Once you receive your first payout, the max loss limit locks at $50,100.
+
+**Example Calculations**
+- **Example #1:** 5 qualifying days, $4,000 net profit:
+  - Eligible payout: $2,000 (50%)
+  - After split: Receive $1,600
+  - $2,000 stays in account
+
+- **Example #2:** $10,000 net profit:
+  - Eligible payout capped at $3,000
+  - After split: Receive $2,400
+  - $7,000 stays in account
+
+***
+
+**Additional Features**
+- **News Trading Allowed:** In both the evaluation and sim funded stages.
+- **Scaling Rules:** Contract limits update by account balance (daily):
+  - Below $1,000: 1 mini / 10 micro
+  - $1,000 – $2,000: 2 minis / 20 micros
+  - Above $2,000: 3 minis / 30 micros
+
+***
+
+**Key Points**
+- **Flex Add-On ONLY changes the payout and scaling rules, NOT how you qualify or move to live funding.**
+- Adds more flexibility for withdrawals while keeping risk controls in place.
+- Only available for **a limited time** and must be selected when purchasing.
+
+Let me know if you want a table comparing the Core Plan standard vs. Flex Add-On!

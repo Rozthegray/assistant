@@ -1,0 +1,10 @@
+EVALUATION TO LIVE TRANSITION Q&A
+
+Q: I hit $3k target but volatile move pushed me to $3.2k — do I fail?
+A: No, if consistency (50%) is respected.
+
+Q: Consistency leniency applies only to EOD?
+A: Yes.
+
+Q: Reset coupon not valid?
+A: Flex add-on or plan type may block eligibility.

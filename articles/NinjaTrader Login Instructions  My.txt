@@ -1,0 +1,28 @@
+NinjaTrader: Login Instructions | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+NinjaTrader: Login Instructions
+NinjaTrader Download and Connection Guide
+Updated over a week ago
+
+If this is your first time logging in to NinjaTrader, follow these steps:
+Go to https://account.ninjatrader.com
+Enter your login details, which can be found on your MFFU Dashboard.
+Select your preferred trading platform.
+
+NinjaTrader Desktop Setup:
+- Launch NinjaTrader Desktop.
+- Enter your login credentials (from your MFFU dashboard).
+- Click connections on your Dashboard, then Configure.
+- Find and select NinjaTrader, then click add.
+- Under the Configured window, click My NinjaTrader. In the properties window, enter your Username and Password, set the account type to “Simulation”, click Apply, then OK.
+- On your NinjaTrader Dashboard, click Connections again and select My NinjaTrader to connect to your MFFU account.
+
+Connection indicator status:
+- Green: Connected
+- Yellow: Attempting to connect
+- Red: Disconnected from order server
+- Transparent: Disconnected completely
+
+Get Funded to trade on NinjaTrader. For setup issues contact support at [email protected]

@@ -1,0 +1,34 @@
+Dashboards and Reports in Volumetrica | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Dashboards and Reports in Volumetrica
+Updated over a week ago
+
+In the Dashboard and Reports section of Volumetrica, you gain access to real-time updates on your trading activity, enabling you to monitor your performance and trading consistency without waiting for end-of-day summaries.
+
+Dashboard
+Comprehensive Performance Overview:
+The Dashboard presents a holistic view of your account’s performance. It includes critical metrics such as account drawdown and profit goals, providing an immediate snapshot of your trading health.
+
+Pending Orders and Positions:
+Pending Orders: This section displays all active pending orders. To manage these orders efficiently, use the “Cancel All” button to remove all pending orders at once.
+Positions: The Positions window provides details of your current trades. If you need to quickly close all open positions, click the “Flatten All” button to liquidate them simultaneously.
+
+Reports
+Detailed Account Analysis:
+The Reports tab offers an in-depth analysis of your trading activity. Key metrics include:
+Win Rate: Percentage of trades that were successful.
+Largest Win: The highest profit earned from a single trade.
+Largest Loss: The greatest loss incurred from a single trade.
+Average Loss: The mean loss amount across all trades.
+Most Traded Symbols: A list of symbols that you trade most frequently.
+Days with Highest Losses: Analysis of weekdays where the most losses occur, helping to identify patterns or trends in your trading performance.
+Symbol Performance Statistics: Detailed performance metrics for each symbol traded, allowing you to assess which symbols contribute most to your overall performance.
+Average Contract Size: Information on the average size of contracts traded, providing insights into your trading scale and risk exposure.
+
+Utilizing the insights from these reports will aid in refining your trading strategies and enhancing your risk management practices, ultimately leading to improved trading performance.
+
+For any questions or further assistance regarding the Dashboard and Reports, please contact our support team. We are dedicated to helping you optimize your trading experience.
+
+Take the Challenge Now to Get Funded

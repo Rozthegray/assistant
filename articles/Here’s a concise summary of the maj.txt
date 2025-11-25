@@ -1,0 +1,61 @@
+Here’s a concise summary of the **major changes and new plan structure at MyFundedFutures (MFFU) as of July 22, 2025, with further updates on September 10, 2025**:
+
+***
+
+**Universal Changes Across All New Plans**
+- **One Standard Evaluation:** Evaluation requirements are now the same for all plans.
+- **$0 Activation Fee:** No setup fees on any plan.
+- **$100,000 Payout Cap:** The max payout cap per user is raised to $100k from a previous $25k soft cap.
+- **No Daily Loss Limit (DLL):** The Daily Loss Limit is eliminated from all new plans.
+- **Consistency Rule Changes:** 50% consistency rule applies only in the Evaluation stage across all plans, NOT in the Sim Funded stage.
+- **News Trading:** Allowed in Core and Scale, and during the evaluation stage for Pro.
+- **Micro Scalping Rule Removed:** Trades over 4 ticks are now accepted.
+- **Account Limit Increase:** Up to 5 simulated funded $50k accounts per user (previously 3).
+- **Profit Split:** 80/20 for trader/firm on all new plans (legacy plans excluded).
+
+***
+
+**Plan Overviews**
+
+| Plan   | $50k Price | Funded Max Loss | Eval Consistency Rule | Min/Max Payouts | Notable Features                      |
+|--------|------------|-----------------|----------------------|-----------------|---------------------------------------|
+| Core   | $77        | $2,000          | 50%                  | $1,000 max      | Fastest pass (2 days); no DLL; live via 5 payouts after 9/10/25 |
+| Scale  | $127       | $3,000          | 50%                  | $1,500–$3,500 tiered | Tiered payouts, fast live transition              |
+| Pro    | $227       | $3,000          | 50%                  | $1,000 min;<br> $100k max | Lower evaluation targets; faster live transition; high-performing traders can be transitioned to live sooner    |
+
+- **$100k / $150k accounts** have higher entry/pricing and payout caps; detailed above.
+
+***
+
+**Plan-Specific Details**
+
+- **Core Plan:** (Replaces Starter)
+  - Pass evaluation in as fast as 2 days.
+  - No DLL, $2,000 funded max loss, $3,000 profit target.
+  - $1,000 max payout in funded stage.
+  - Legacy Core/Starter being phased out but still available for limited time.
+- **Scale Plan:** (Replaces Starter Plus)
+  - Tiered payout system: $1,500 cap at first, increases to $3,500 by the fifth payout.
+  - No DLL.
+  - Higher funded balances for larger accounts.
+- **Pro Plan:** (Replaces Expert)
+  - Lower profit targets to pass.
+  - High max payout cap ($100k/user), with possibility for payouts above cap transitioning to live.
+  - High performers may be transitioned to live at any time.
+  - More clearly defined transition-to-live rules (3 payouts or every $20k milestone).
+
+***
+
+**Transition to Live Account (Effective September 10, 2025)**
+- **Old Option:** “30 profitable days” as a route to live accounts is being discontinued.
+- **New Rule:** **To qualify for live on Core or Scale, you must earn five consecutive payouts.**
+- For Pro, transition to live can also happen after three consecutive payouts or at every $20k profit milestone.
+
+***
+
+**Additional Notes**
+- **No Hidden Costs:** $0 activation fees remain in effect.
+- **Trader Flexibility:** Payout caps are much higher; new tiered system is designed for easier scaling.
+- **Legacy Accounts:** Can still be purchased for now but will be phased out.
+
+If you want a **side-by-side comparison** table or clarification for a specific plan or rule, just ask!

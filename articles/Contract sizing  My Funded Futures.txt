@@ -1,0 +1,22 @@
+Contract sizing | My Funded Futures Help Center
+
+Each account size has a contract limit.
+
+Starter/Starter Plus:
+- $50,000: 3 E-Mini max
+- $100,000: 6 E-Mini max
+- $150,000: 9 E-Mini max
+- Starter: 1:10 micro scaling, Starter Plus: 1:5
+
+Expert:
+- $50,000: 5 E-Mini or 5 micro
+- $100,000: 10 E-Mini or 10 micro
+- $150,000: 15 E-Mini or 15 micro
+
+Milestone:
+- $25,000: 1 E-Mini / 10 micro
+- $50,000: 3 E-Mini / 9 micro
+- $100,000: 6 E-Mini / 18 micro
+- $150,000: 9 E-Mini / 27 micro
+
+Choose your plan at MFFU.

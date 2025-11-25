@@ -1,0 +1,18 @@
+Introduction to Volumetrica | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Introduction to Volumetrica
+Updated over a week ago
+
+MyFundedFutures announces partnership with Volumetrica Trading Platforms—a sophisticated, robust volume-based trading suite for both novice and experienced traders.
+
+Data Feed:
+Uses dxFeed for desktop (VolSys, VolBook) and web-based platforms. Consistent real-time data.
+
+Why Volumetrica & dxFeed:
+Footprint, time&sales, Level 2 tools, reliable execution.
+
+Mac users: Web version works on Safari. Desktop version (Win) can run on Parallels.
+
+Extra guidance: See Workspace, Indicators, Dashboard articles. For help, contact support.

@@ -1,0 +1,42 @@
+What are the permitted times to trade the markets with MFFU?
+Trades can be placed starting at 6:00 PM EST at the Globex Open and can be held through until the 4:10 PM EST NY session close.
+
+ 
+
+What happens if I do not close the trade?
+At MyFundedFutures, positions will be closed for you during regular trading days at 4:10 PM EST. So, you need not worry about breaching the rule.
+
+ 
+
+Permitted Times to Trade | My Funded Futures Help Center
+
+All Collections
+Traders Evaluation
+Permitted Times to Trade
+Timing of allowed trading hours.
+Updated over a week ago
+
+Permitted times are: 
+Trades may be placed at 6:00 PM EST (Globex Open) and may remain open until the 4:10 PM EST NY Close.
+
+Auto-liquidation occurs at 4:10 PM, but if you repeatedly force trades after that, it could disqualify your account. Trading at Globex Open (6:00 PM) is permitted, but beware of illiquid market times—use caution; this goes for holiday trading hours as well. During holidays, you must close positions yourself.
+
+Failure to close in time = account breach. Applies to all accounts.
+
+Take the Challenge Today!
+
+Can I trade the Globex Opening at 06:00pm EST, will I get the fill?
+Yes, you can trade between the specified times. However, please note that even if you are at the sim funded or sim evaluation stages, we do not recommend trading when the markets are said to be illiquid. This can cause issues with the position.
+
+ 
+
+Illiquid hours are allowed to trade, but at the traders own discretion. This is also applicable for holiday trading hours as well.
+
+ 
+
+Holiday Hour Trading:
+During holiday trading hours, auto-liquidation will not occur at the half-time market close, and the trader is responsible for closing the positions.
+
+Please note the times that you’re allowed to trade.
+
+Failure to close the positions before the market closes will result in breaching of the account. Both evaluations and Sim Funded Accounts

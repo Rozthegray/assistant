@@ -1,0 +1,10 @@
+EVALUATION Q&A
+
+Q: Eval pass consistency for Core?
+A: 50% consistency rule.
+
+Q: Failed eval and can’t reset/cancel billing?
+A: Contact support.
+
+Q: What affects reset coupon validity?
+A: Flex add-on or plan type.

@@ -1,0 +1,26 @@
+MyFunded Futures Funded Account Rules and Prop Trading Challenge Guide | My Funded Futures Help Center
+
+Congratulations on reaching the funded level at MyFundedFutures! This guide covers funded account parameters, prop trading challenge rules, and objectives for Starter, Expert, Core, Scale, and Pro plans.
+
+Sim-Funded Account: Trade simulated capital while following prop firm rules. Pass your evaluation, then enter the sim-funded stage to trade for (virtual) profits and withdrawals.
+
+Key Evaluation Rules:
+- Profit Target: Reach the goal, don’t breach trailing drawdown or daily loss.
+- Trading Activity: At least 1 trade on 5 separate days.
+- Consistency Rule: 40% (Starter; no day exceeds 40% of profits); 50% for Core/Scale/Pro evals.
+- Trading Hours: No weekends, follow session hours.
+- No vacation pauses during evaluation, only after.
+
+Sim-Funded Account parameters:
+- Stay active: 1 trade every 7 days or notify support.
+- Scaling/consistency/withdrawal rules apply per plan.
+
+Expert/Pro rules: No scaling but avoid overleveraging; follow conduct guidelines.
+
+General:
+- Max 5 sim-funded accounts (50k accounts only).
+- Don’t exceed EOD trailing loss.
+- Trade consistently for possible promotion to live-funded.
+- No resets for sim-funded accounts.
+
+Daily discipline and consistency are keys. Success is about smart management and following the rules.

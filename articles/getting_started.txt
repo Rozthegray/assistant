@@ -1,0 +1,16 @@
+GETTING STARTED / GENERAL PLATFORM Q&A
+
+Q: Why can’t I get funded Discord role?
+A: Sync Discord in Dashboard → Personal Settings → Update Role.
+
+Q: Connected Discord but no roles?
+A: Log out/in again; or contact support.
+
+Q: Can I use debit card?
+A: Yes — Visa/Mastercard. No Discover.
+
+Q: How to complete KYC?
+A: Dashboard → Personal Settings → KYC. Requires ID + proof of address.
+
+Q: Copy trading multiple accounts shows different contract limits?
+A: Scaling updates only after EOD.

@@ -1,0 +1,21 @@
+Adding Indicators and Studies to Volumetrica | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Adding Indicators and Studies to Volumetrica
+Updated over 5 months ago
+
+After configuring layouts/workspaces, you can enhance charts with indicators and studies.
+
+Adding Indicators:
+- Click Indicators (top-right).
+- Browse or search for indicators (Volume/Technical).
+- Select (e.g., MACD), customize, and Apply to chart.
+- Save settings as a template for reuse.
+
+Drawing Tools:
+- Use pointer tools to navigate charts.
+- Drawing tools include: Horizontal/Vertical Lines, Box/Parallel Lines, Text, Fibonacci, Ruler.
+- To tweak Fibonacci, double-click lines, adjust settings in popup, save as template.
+
+Support for indicator requests is available with the support team.

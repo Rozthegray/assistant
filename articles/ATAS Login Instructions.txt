@@ -1,0 +1,24 @@
+ATAS: Login Instructions | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+ATAS: Login Instructions
+ATAS Download and Connection Guide
+Updated over a week ago
+
+ATAS Download:
+Click on the Downloads button from your MFFU dashboard and select ATAS. Register with ATAS to obtain the platform license. Use accurate info, as ATAS will email your password for platform login.
+After download, install ATAS software.
+
+ATAS Login and MFFU Connection:
+- Launch ATAS.
+- Enter your login credentials (sent by ATAS after registration) and click Connect.
+- On the ATAS dashboard, click Connections.
+- Click Add.
+- Select dxFeed prop in the Data Provider pop-up, then click Next.
+- Add your MFFU connection: enter your credentials from your MFFU dashboard, click Finish.
+- Return to Connections, click Connect for your new connection.
+- When connected, look for green "Connected" status and your MFFU accounts in the accounts window.
+
+Coupon codes available on MFFU site. For help, contact support at [email protected]
+

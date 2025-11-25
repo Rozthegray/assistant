@@ -1,0 +1,17 @@
+2% Price Limit Rule | My Funded Futures Help Center
+
+At MyFundedFutures, we prioritize protecting our traders from high volatility and hazardous market conditions. We strictly prohibit trading when a product is within 2% of a CME price limit. This ensures our traders are not exposed to extreme market losses.
+
+- Price limits: Maximum price range per contract, per session.
+- When the limit is hit: Markets may halt, stay in limit, or stop based on rules.
+
+Where enforced: Sim Funded Account and Live Funded Account.
+
+How to comply:
+- Price limits change daily (see CME's Price Limits page, updated 5:05 PM EST).
+- Check your platform's "Net Change %".
+- Ensure you're not trading within 2% of either price limit.
+
+Example: For a 5% price limit, stop trading if you're within 2% of it (i.e. 3%-5% above/below ref price).
+
+This rule is to protect both firm and traders. Learn your contract specs and always be aware of price limits.

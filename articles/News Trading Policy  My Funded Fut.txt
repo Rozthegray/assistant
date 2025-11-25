@@ -1,0 +1,45 @@
+News Trading Policy | My Funded Futures Help Center
+
+What is MyFundedFutures' policy around trading on key news releases?
+
+Prohibited News Trading Activities:
+
+Engage in your trading activities mindfully, especially during news releases. The following activities are strictly prohibited:
+- Utilizing strategies that exploit immediate news bursts, such as straddles or strangles.
+- Masking news trades as standard strategies.
+These prohibitions are in effect for all news releases.
+
+Standard Trading Protocols:
+
+Maintain the integrity of your trading by:
+- Sticking to your regular trading system during news intervals.
+- Initiating trades based on standard entry rules.
+- Ensuring no open positions or orders are active in the order book 2 minutes before and after any data release.
+These protocols apply to all news releases.
+
+Looking to get Funded? Start here.
+
+Tier 1 Data: Special Considerations
+
+Ensure utmost caution by adhering to the following during Tier 1 Data Releases:
+- No positions or orders (including limit orders) can be open 2 minutes before and after the release.
+- All positions must be flattened at least two minutes prior to the scheduled T1 News event.
+
+For example, if news is at 8:30, positions must be closed by 8:28:00 or earlier, and may only be reopened after 8:32:00.
+
+Restricted Accounts: Trading on T1 News events is prohibited for Starter and Expert/Pro Sim Funded Accounts.
+Unrestricted Accounts: Core, Scale, and Starter Plus accounts are not subject to these restrictions.
+
+Tier 1 News Includes:
+For All Traders: FOMC Meetings, FOMC Minutes, Employment Report, CPI
+For Energy Traders: EIA
+For Agricultural Traders: Agricultural Reports
+
+Trading During Other News Releases
+
+While the Prohibited News Trading Activities and Standard Trading Protocols apply, you may trade through other news releases if it aligns with your regular trading strategy. However, be mindful that data issues or disruptions with brokers can occur during news events, and MFFU is not liable for any issues that arise should you choose to trade during these times.
+
+A Firm Stance for Fair Trading
+This policy is steadfast and implemented to shield both our traders and the firm. As News Trading is not simulated 1:1 with live markets, it is not allowed. Your understanding and adherence to this policy contribute to a fair and stable trading environment for all.
+
+For T1 news for all of 2025, questions, or more info, contact support.

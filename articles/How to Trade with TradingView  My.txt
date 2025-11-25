@@ -1,0 +1,28 @@
+How to Trade with TradingView | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+How to Trade with TradingView
+TradingView Guideline
+Updated over a week ago
+
+There are a few options for trading on TradingView.
+
+Long/Short Position Tool Entry (Recommended):
+1. Login to Tradovate via TradingView’s Trading Panel.
+2. Change to your preferred Futures symbol.
+3. Select Long/Short tool for buying or selling.
+4. Place on chart, adjust entry, stop & take profit.
+5. Right-click to adjust risk and choose ‘Create Limit Order’ (even for market entry).
+6. Set entry type (Limit/Market), adjust settings.
+7. Press “Buy” or “Sell” to enter.
+8. X button cancels/flatten position.
+
+Quick Market Entry:
+1. Login as above, select symbol.
+2. Adjust quantity, use Buy/Sell for market entry.
+3. Manually add stop/take profit after entry: click + near price, select “Stop” or “Limit”.
+
+Flatten/close positions with X.
+
+For discounts, see MFFU Deals page.

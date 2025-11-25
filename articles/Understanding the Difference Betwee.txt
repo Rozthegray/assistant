@@ -1,0 +1,57 @@
+Understanding the Difference Between Account Resets and Renewals | My Funded Futures Help Center
+
+All Collections
+Traders Evaluation
+Understanding the Difference Between Account Resets and Renewals
+Resets vs. Renewals
+Updated over a week ago
+
+Account Reset: Manual action restoring your account to its original state (balance restored, all progress lost), useful for starting over before end of billing. Does NOT extend plan duration.
+
+Account Renewal: Automatic every 30 days unless cancelled, allowing continued trading and preserving progress (unless breached). Renewal resets only if account is breached; otherwise, progress carries over.
+
+Know the difference to avoid mistakes—MFFU is not responsible for user errors. Contact support at [email protected] for questions.
+
+Resets vs. Renewals
+
+Updated over a week ago
+Managing your trading account effectively requires a clear understanding of the options available. Two common actions, resetting an account and renewing an account, are distinct features. Misunderstanding their differences can lead to confusion.
+​
+Here's what you need to know:
+​
+​What is an Account Reset?
+An account reset is a manual action you take to restore your trading account to it's original state, whether it's breached or not. This option is ideal if you are seeking a fresh start without waiting for the next billing cycle.
+​
+When you reset an account:
+​1) Your account balance is restored to its initial balance.
+
+2) Your progress starts over, including any gains or losses accumulated. 
+​
+
+Key Point: A reset does not extend the life of your evaluation account. It restores its condition while keeping the same date tied to your current billing cycle. 
+
+ 
+
+Looking to get Funded with MFFU? Start here.
+
+ 
+
+
+​What is an Account Renewal?
+
+ 
+
+A renewal happens automatically every 30 days unless you cancel your account before the next billing date. Renewal ensures uninterrupted access to your evaluation account, allowing you to continue trading. 
+​
+When your account renews:
+
+1) Your subscription is extended for another 30 days.
+
+2) Your evaluation progress remains intact, if the account is not in breached status. Gains and losses carry over. 
+3) If the evaluation account is in breached status at the time of the billing, it will be automatically reactivated and its balance will be restored to its initial balance.
+
+ 
+
+Key Point: Renewal does not reset your evaluation account, unless your account is breached at the time of rebilling. Additionally, you're provided with a reset credit if your evaluation account is not breached at the time of the rebilling.
+
+ 

@@ -1,0 +1,20 @@
+Connecting to Different Platforms at MFFU | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Connecting to Different Platforms at MFFU
+Updated over a week ago
+
+Navigating the world of trading platforms can be daunting, but at MFFU, we aim to make the process as seamless as possible. Here’s a step-by-step guide to connecting to our supported platforms:
+
+TradingView, Tradovate, and NinjaTrader:
+- Head over to https://trader.tradovate.com and sign in.
+- You’ll be prompted to sign an agreement for live market data access.
+- Once signed, your account will update and you’ll have access to live data.
+
+Follow these instructions to access live market data on your platform.
+
+This ensures you have the necessary permissions and access for full trading functionality.
+Ready to Take the Challenge? Start here.
+
+For additional help, contact our customer support team.

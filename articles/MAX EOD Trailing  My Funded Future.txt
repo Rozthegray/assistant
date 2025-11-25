@@ -1,0 +1,50 @@
+MAX EOD Trailing | My Funded Futures Help Center
+
+All Collections
+Traders Evaluation
+MAX EOD Trailing
+Max EOD
+Updated over a week ago
+
+At MyFundedFutures, we wanted to eliminate the daily drawdown so traders could relax about constant drawdowns.
+There is no daily drawdown, but there is a Max EOD (End of Day) Drawdown set at 3%. The Max EOD trailing locks in at $100 + the initial starting balance.
+
+NOTE: You must be aware that open equity losses count toward whether the account fails this rule—if an open position dips your balance below the minimum, it will fail.
+
+Examples:
+- 50k is 52k + $100 = 52.1k (50K accounts have 4% DD)
+- 100k is 103k + $100 = 103.1k
+- 150k is 154.5k + 100 = 154.6k
+
+Take the Challenge to Get Funded!
+
+MAX EOD TRAILING DRAWDOWN EXPLAINED
+Max EOD Trailing Drawdown replaces traditional daily drawdown at MyFundedFutures.
+
+It’s set at a percentage of your initial account balance.
+
+4% for $50K accounts
+
+3% for $100K & $150K accounts
+
+The trailing drawdown tracks your account balance day by day, based on the highest end-of-day balance achieved.
+
+When your end-of-day balance reaches (Initial Balance + Drawdown Percentage) + $100, the EOD trailing drawdown locks at Initial Balance + $100, and stops trailing.
+
+Example Calculations:
+
+$50K account: Max drawdown locks at $52.1K, so drawdown stops trailing at $50.1K
+
+$100K account: Locks at $103.1K, drawdown stops trailing at $100.1K
+
+$150K account: Locks at $154.6K, drawdown stops trailing at $150.1K
+
+Important: Open equity losses are considered. If your live position brings the balance below the minimum allowed, the account fails the rule—even if not closed.
+
+Quick Reference Timeline
+Day/Balance	Description
+Start	Initial Balance (e.g., $100,000)
+Day 1–N	If your balance increases, the trailing drawdown follows the highest EOD balance
+Drawdown Locks	When you hit (Initial Balance + X% + $100), your trailing DD locks at Initial Balance + $100
+After Payout	Max Drawdown resets/locks at Initial Balance + $100
+Buffer Zone: For the Pro Plan, there’s a buffer zone; for Starter/Starter Plus, the above DD locking applies instead.

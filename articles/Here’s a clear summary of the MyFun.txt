@@ -1,0 +1,38 @@
+Here’s a **clear summary of the MyFundedFutures Evaluation-To-Live Scaling Program** based on the details you provided:
+
+**How Scaling Works**
+- When you pass an Evaluation-To-Live plan, you start with a $2,000 live-funded account.
+- As you hit specific profit milestones, your account size, daily loss limit (DLL), and maximum contract allowance increase according to your progress.
+- If you pass with multiple accounts at once:
+  - Two accounts = $4,000 starting balance, $1,000 DLL, 2 minis/20 micros.
+  - Three accounts = $6,000 starting balance, $1,500 DLL, 3 minis/30 micros.
+
+**Progression Table**
+
+| Account Size | Daily Loss Limit (DLL) | Max Contracts        |
+|--------------|-----------------------|----------------------|
+| $2,000*      | $500                  | 1 Mini / 10 Micro    |
+| $4,000*      | $1,000                | 2 Mini / 20 Micro    |
+| $6,000*      | $1,500                | 3 Mini / 30 Micro    |
+| $8,000       | $2,000                | 4 Mini / 40 Micro    |
+| $10,000      | $2,500                | 5 Mini / 50 Micro    |
+| $20,000+     | Custom                | Custom               |
+
+*If starting with 2 or 3 accounts, see notes above.
+
+**Key Rules and Details**
+- **Profit Split**: Stays at 80% for traders, regardless of account size.
+- **Contract Size Increases**: Each scaling milestone unlocks access to additional contracts.
+- **Scaling Rules**: If your account falls below the threshold for your current scaling level, your contract and DLL decrease accordingly.
+- **Custom Scaling**: After $20,000, custom scaling plans are available via a risk manager if you show consistent profitability.
+- **No Time Limit**: You can progress at your own pace—no deadline to reach targets.
+- **Withdrawals**: You do not need to withdraw profits to scale, but withdrawing will lower your eligible contracts and DLL based on new balance.
+
+**Example Scenarios**
+- If you pass with a single account: Start at $2,000, $500 DLL, 1 mini/10 micros.
+- Pass with 2 accounts: Start at $4,000, $1,000 DLL, 2 minis/20 micros.
+- Pass with 3 accounts: Start at $6,000, $1,500 DLL, 3 minis/30 micros.
+
+**Contact Support** for any questions beyond this summary or for custom scaling options once you reach higher levels.
+
+Let me know if you need a breakdown by example, or details on profit milestones for each level!

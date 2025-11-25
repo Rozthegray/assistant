@@ -1,0 +1,34 @@
+Starter Account Overview | My Funded Futures Help Center
+
+Qualify fast for a live funded account with MyFundedFuture Starter plan—no consistency rules and payouts in as little as 5 days.
+Note: The $100k and $150k Starter accounts are no longer available.
+
+Main Objective: Transition to Live Funding through steady progress from sim to live. The Starter Plan is designed to foster account growth.
+
+Benefits:
+- Easiest path to live funding
+- Potential weekly payouts (5 winning days of $100 minimum, for 50K)
+- Daily Loss Limits protect your trading day
+- Competitive pricing, no activation fee
+- No Buffer Zone: Get a payout after 5 winning days
+- Fast qualification for live funding with 30 winning days
+
+Parameters (Starter 50K):
+- Profit Target: $3,000
+- Max Loss: $2,500
+- Daily Loss: $1,200
+- Price: $97/reset: $97
+- Max Contract: 3 minis (scaling enabled)
+- Consistency: 40% (funded only; resets after each payout)
+- Payout: $1,200 per payout up to 5 payouts/30 days; Max loss increases after 1st payout
+
+Scaling Plan:
+- Below $1,000: 1 mini / 10 micro
+- $1,000 - $2,000: 2 mini / 20 micro
+- $2,000 - $3,000: 3 mini / 30 micro
+
+No consistency rules in evaluation, only in funded stage. No buffer zone for payouts. No simultaneous sim and live trading.
+
+Coupon codes available for discounts.
+
+Contact support for more info!

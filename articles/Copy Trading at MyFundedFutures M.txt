@@ -1,0 +1,28 @@
+Copy Trading at MyFundedFutures | My Funded Futures Help Center
+
+All Collections
+Trading Platforms
+Copy Trading at MyFundedFutures
+Updated over a week ago
+
+MyFundedFutures (MFFU) allows copy trading across all account types.
+
+Tradesyncer Integration:
+Tradesyncer is our preferred trade copier partner, fully compatible with all MFFU accounts. Features:
+- Millisecond-precision trade synchronization across multiple accounts
+- Seamless connectivity with dxFeed and Tradovate accounts
+- Cross-platform (desktop, mobile)
+- Real-time analytics across all accounts
+- Intuitive, no third-party software needed
+
+Additional Options:
+Tradovate users can utilize built-in group copier or other external solutions.
+
+Important Policies:
+- You assume all responsibility for copy trading consequences.
+- MFFU disclaims liability from copy trading software/services.
+- No technical support or account resets for copy trading issues.
+- Copy traders indemnify MFFU from losses/claims.
+- Copy trading must comply with all MFFU terms of service.
+
+Ready to Get Funded? Start now.

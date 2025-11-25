@@ -1,0 +1,81 @@
+Scale Plan - Rapid Add-on
+Updated over a week ago
+MyFundedFutures is committed to providing traders with increased flexibility for faster payouts. The Scale Plan - Rapid Add-on introduces a daily payout option, enabling traders to access their profits more quickly. Traders can now request payouts on a daily basis, allowing them to realize their earnings as early as day one.
+
+ 
+
+Evaluation
+
+The evaluation stage for the Scale Rapid Add-on remains consistent with the current Scale Plan. Click here for Scale Plan evaluation rules and parameters.
+
+ 
+
+Cost
+
+The Rapid Add-on is FREE with the purchase of a 50k Scale Plan ($127).
+
+The Rapid Add-on can ONLY be added at the time of purchasing a new Scale Plan and cannot be applied retroactively.
+
+The Rapid Add-on is available for a limited time only. Take advantage of it today!
+
+Start Now with the Scale Plan Rapid Add-On
+ 
+
+Simulated Funded Rules
+
+Intra-day Drawdown:
+
+Your maximum loss limit increases based on your account's Equity High - Water Mark.
+
+The maximum loss limit is $2,000, calculated based on your highest equity high, including unrealized profit. Click here for more information regarding intra-day drawdown.
+
+Drawdown on the evaluation stage, remains end of day (EOD).
+
+The maximum loss limit locks at $50,100.
+
+ 
+
+How Does Rapid Add-on Payout Work?
+
+Eligibility for Payout:
+
+Eligible from Day One
+
+Traders can request payout after market close
+
+Required buffer: $2,100
+
+Consistency: None
+
+Payout Frequency: Daily, available after market close refresh
+
+Minimum Payout: $500
+
+Payouts are subject to an 80/20 profit split (80% to the trader, 20% to the firm)
+
+ 
+
+News Trading
+
+No T1 News trading allowed in the simulated funded stage. 
+
+ 
+
+Max Contracts
+
+5 minis / 50 micros
+
+ 
+
+Live Account Transition Parameters
+
+Upon reaching a cumulative total of $10,000 in simulated profits, your account will be reviewed by the risk team. This milestone allows the team to assess trading performance and determine suitability for transition to a live account.
+
+Note: Cumulative totals include both profits made and payouts. For example:
+
+A trader earns $6,000 in profits and requests $2,000 in payouts. After the payout, the remaining profit is $4,000. However, the cumulative total remains $6,000. The trader then earns another $4,000, reaching the $10,000 milestone with $8,000 in profit.
+
+Once the transition to a live account is initiated, profits up to $5,000 will be deposited into the live account. Any remaining profits are forfeited.
+​ 
+
+The risk team may contact a trader at any point during your Sim Funded journey for a transition to a Live account. Any profits on your account(s) will be transitioned, up to the max value per plan. Remaining profits are forfeited. 

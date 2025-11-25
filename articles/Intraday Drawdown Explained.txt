@@ -1,0 +1,83 @@
+Intraday Drawdown Explained
+Updated over a week ago
+Trailing (Intraday) Drawdown
+ 
+
+Definition
+ 
+
+A Trailing Drawdown is a dynamic loss limit that increases as your account's equity reaches new highs, but does not decrease when losses occur. MyFunded Futures uses intraday drawdown to monitor a trader's risk exposure throughout the trading day.
+
+ 
+
+How It Works
+ 
+
+At the funded stage, the trailing drawdown is calculated intraday based on your peak balance, which includes both realized and unrealized gains. The drawdown will adjust with your account as you experience gains, but it will not exceed the starting balance.
+
+ 
+
+At the start of your evaluation or funded account, MyFunded Futures sets the following:
+
+ 
+
+Starting Balance: For example, $50,000
+
+Maximum Trailing Drawdown Amount: For example, $2,000
+
+ 
+
+Your initial equity limit is calculated as follows:
+
+Starting Balance − Trailing Drawdown
+
+→ $50,000 − $2,000 = $48,000
+
+ 
+
+When your account reaches a new equity high, including unrealized profits, the trailing threshold adjusts upward accordingly:
+
+ 
+
+New Equity High: $51,000
+
+New Drawdown Limit: $51,000 − $2,000 = $49,000
+
+ 
+
+If your account value declines, even during an open trade, the drawdown limit remains unchanged. However, if your equity, including open trades, falls below the most recently adjusted drawdown limit, your account will breach the maximum loss limit.
+
+ 
+
+Traders can monitor the remaining intraday maximum drawdown limit while executing trades on their trading platforms.
+
+ 
+
+For Tradovate accounts, keep track of your trailing drawdown doing the following:
+
+Sign in to your Tradovate account.
+
+Click in + sign in top right hand corner.
+
+ 
+
+
+ 
+
+3. Click on Accounts and drag onto your main screen.
+
+ 
+
+
+ 
+
+4. This screen will need to be manually formatted to show the needed columns displaying your trailing drawdown. Click on setting wheel and then columns.
+
+ 
+
+
+ 
+
+5. From drop down options, select 'DRAWDOWN AUTO LIQ LEVEL' to monitor current trailing drawdown limit and 'DIST DRAWDOWN' to monitor how much drawdown remains before reaching max drawdown.
+
+ 

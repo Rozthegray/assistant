@@ -1,0 +1,66 @@
+Starter Plus Account Overview
+Starter Plus Plan is permanent!
+
+Designed for easy progression from simulated to live funding.
+
+50% Consistency rule applies in evaluation only.
+
+No consistency rule, daily loss limit, or T1 news restriction once funded.
+
+Funded in as little as two days.
+
+No buffer zone for payouts—drawdown locks to initial balance + $100 after first payout.
+
+Trading Platforms Supported
+CQG: TradingView, Tradovate, NinjaTrader
+
+dxFeed: Quantower, Volumetrica Web, VolSYS, VolBook, ATAS
+
+Starter Plus Benefits
+Fastest path to live funding: 30 winning days or 5 payouts move you to live funding.
+
+Potential weekly payouts: 5 winning days unlock payout (e.g., $100/day for 50K account).
+
+No buffer zone: Withdrawals available as soon as you meet winning days count.
+
+Progression-focused: Main objective remains helping you transition to live funded trading.
+
+Starter Plus Account Parameters
+Parameter	50K Starter Plus	100K Starter Plus	150K Starter Plus
+Price	$127	$267	$377
+Profit Target	$3,000	$6,000	$9,000
+EOD Drawdown (EOD DD)	$2,000	$3,000	$4,500
+Evaluation Reset	$127	$267	$377
+Contracts (Eval)	3 minis/30 micros	6 minis/60 micros	9 minis/90 micros
+Contracts (Sim Funded)	3 minis/15 micros	6 minis/30 micros	9 minis/45 micros
+Consistency	50% (Eval only)	50% (Eval only)	50% (Eval only)
+Payout Qualification	5 winning days @ $100	5 @ $200	5 @ $300
+Withdrawal Limit	$1,200 (Until 30 days/5 payouts, then Limit → $50,100)	$2,400 (→$100,100)	$3,600 (→$150,100)
+Live Funding	$2,500 static after 30 days or 5 payouts	$3,500	$5,000
+Profit Split	90/10 after first $10,000 withdrawals		
+Activation Fee	None	None	None
+Sim Funded Plan Withdrawal Limits
+Account Size	Max Payout after 5 Winning Days
+50K	$1,200
+100K	$2,400
+150K	$3,600
+Starter Plus Scaling Plan
+Evaluation Stage:
+Maximum contracts for entire period:
+
+$50K: 3 minis or 30 micros
+
+$100K: 6 minis or 60 micros
+
+$150K: 9 minis or 90 micros
+
+Sim Funded Stage:
+Maximum micro contracts is HALF the evaluation allowance:
+
+$50K: 3 minis or 15 micros
+
+$100K: 6 minis or 30 micros
+
+$150K: 9 minis or 45 micros
+
+As your profits grow, you can scale up contract size per the plan.

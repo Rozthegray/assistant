@@ -1,0 +1,92 @@
+Understanding Evaluation Parameters at MFFU | My Funded Futures Help Center
+
+At MFFU, we believe in providing traders with a clear path to success. A significant part of this journey involves understanding the evaluation parameters that guide your trading experience. These parameters are not just arbitrary rules; they are designed based on years of market experience and are aimed at fostering disciplined and profitable trading habits.
+​
+
+Explanation of Parameters
+Before diving into strategies and trades, it's essential to grasp the parameters that will be evaluating your performance:
+
+Profit Target: This is the predetermined profit amount you aim to achieve within the evaluation period. It serves as a benchmark for your trading success.
+
+Maximum Drawdown: This is the maximum allowable loss from the peak of your account balance. It's a safety net, ensuring that traders don't risk too much capital.
+
+Daily Loss Limit: This parameter sets a cap on how much you can lose in a single trading day. It's designed to prevent spiraling losses on particularly volatile days.
+
+EOD (End of Day) Drawdown: This refers to the drawdown that is pegged to your positive account performance and is adjusted at the end of the trading day. If you increase your profit by $1.00, then your minimum account balance will also rise by $1.00. This mechanism ensures that traders are rewarded for positive performance by providing them with a cushion against potential future losses.
+
+Consistency Rule: This rule ensures that traders don't swing wildly in their trading sizes or strategies. It promotes steady and consistent trading habits.
+
+Minimum Trading Days: Some evaluations require traders to trade for a minimum number of days to ensure they are genuinely engaged and not just taking wild risks hoping for a lucky break.​
+
+Start your Evaluation today
+ 
+
+ 
+
+Importance and Impact on Trading
+Understanding these parameters is not just about compliance; it's about internalizing the principles of disciplined trading:
+
+Risk Management: The Maximum Drawdown, Daily Loss Limit, and EOD Drawdown parameters are quintessential for instilling robust risk management habits. They ensure that traders don't get carried away by emotions and make impulsive decisions that can jeopardize their accounts.
+
+Goal Orientation: The Profit Target parameter gives traders a clear goal to strive for. It encourages forward planning and strategic thinking.
+
+Consistency: The Consistency Rule ensures that traders develop a steady trading rhythm, which is crucial for long-term success in the markets.
+​
+
+Managing Your Trading Accordingly
+With a clear understanding of these parameters, here's how you can tailor your trading:
+
+Plan Your Trades: Always have a clear entry and exit strategy. Know your stop-loss and take-profit levels before entering a trade.
+
+Monitor Your Performance: Regularly check your performance against the evaluation parameters. If you're nearing the Daily Loss Limit, it might be wise to stop trading for the day.
+
+Stay Informed: Keep abreast of market news and events. External factors can significantly impact the markets, and being informed will help you make better trading decisions.
+
+Seek Feedback: Don't hesitate to reach out to the MFFU community or support team for feedback or clarifications on your trading or the evaluation parameters.
+
+All Collections
+Traders Evaluation
+Understanding Evaluation Parameters at MFFU
+Updated over a week ago
+
+At MFFU, we believe in providing traders with a clear path to success. A significant part of this journey involves understanding the evaluation parameters that guide your trading experience. These parameters are not just arbitrary rules; they are designed based on years of market experience and are aimed at fostering disciplined and profitable trading habits.
+
+Explanation of Parameters
+Profit Target: Predetermined profit amount to achieve within the evaluation period.
+Maximum Drawdown: Maximum allowable loss from the peak balance—your safety net.
+Daily Loss Limit: Cap on how much you can lose in a single day.
+EOD (End of Day) Drawdown: Drawdown pegged to account performance, adjusted at day’s end (if you gain $1, your minimum balance increases by $1).
+Consistency Rule: Ensures you don’t swing wildly in size/strategy, promoting steadiness.
+Minimum Trading Days: Some evaluations require trading over a minimum number of days.
+
+Importance and Impact on Trading
+Risk Management: The drawdown and loss limit rules help you develop robust habits.
+Goal Orientation: The profit target focuses you on planning and strategy.
+Consistency: The rule sets you on a steady path, not just big one-off profits.
+
+Managing Your Trading Accordingly
+Plan Your Trades: Set entry/exit, stop-loss and take profit before trade.
+Monitor Your Performance: Stop trading if near daily loss limit.
+Stay Informed: Be aware of news/events to avoid surprises.
+Seek Feedback: Use the community/support for advice or clarity.
+
+Importance and Impact on Trading
+Understanding these parameters is not just about compliance; it's about internalizing the principles of disciplined trading:
+
+Risk Management: The Maximum Drawdown, Daily Loss Limit, and EOD Drawdown parameters are quintessential for instilling robust risk management habits. They ensure that traders don't get carried away by emotions and make impulsive decisions that can jeopardize their accounts.
+
+Goal Orientation: The Profit Target parameter gives traders a clear goal to strive for. It encourages forward planning and strategic thinking.
+
+Consistency: The Consistency Rule ensures that traders develop a steady trading rhythm, which is crucial for long-term success in the markets.
+​
+
+Managing Your Trading Accordingly
+With a clear understanding of these parameters, here's how you can tailor your trading:
+
+Plan Your Trades: Always have a clear entry and exit strategy. Know your stop-loss and take-profit levels before entering a trade.
+
+Monitor Your Performance: Regularly check your performance against the evaluation parameters. If you're nearing the Daily Loss Limit, it might be wise to stop trading for the day.
+
+Stay Informed: Keep abreast of market news and events. External factors can significantly impact the markets, and being informed will help you make better trading decisions.
+
+Seek Feedback: Don't hesitate to reach out to the MFFU community or support team for feedback or clarifications on your trading or the evaluation parameters.

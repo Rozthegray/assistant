@@ -1,0 +1,41 @@
+Flex - 50k Core Plan Add-On
+
+At MyFundedFutures, we’re always looking for ways to give traders more flexibility on their path to payouts. The 50K Core Plan Flex Add-On introduces an alternative payout structure while keeping the foundational rules of the Core Plan unchanged.
+
+Evaluation rules remain the same.
+
+What’s New?
+With the Flex Add-On, we're changing the way you reach your payout. Evaluation rules remain the same. Live Transition rules remain the same.
+
+Cost
+The Flex Add-On is Free when you purchase a 50K Core Plan ($77). It can only be added at the time of purchase and cannot be applied retroactively. The Core Flex Add-On is available for a limited time only. Take advantage of it today!
+Take the Challenge with Flex Add-On Today.
+
+How Payouts Work
+After five winning days (each with Net PNL ≥ $100), you become eligible for a payout request. You may request 50% of your net profits per payout, up to $3,000. The other 50% of profits must remain in your account. Standard 80/20 profit split applies (80% trader / 20% firm). Minimum payout request: $250. After the first payout, the Maximum Loss Limit locks at $50,100.
+
+Payout Example #1
+Trader records 5 qualifying winning days, netting $4,000 total profit. Eligible payout: $2,000 (50%). After profit split, trader receives $1,600. Remaining $2,000 stays as balance.
+
+Payout Example #2
+Trader records 5 qualifying winning days, netting $10,000 total profit. Eligible payout capped at $3,000. After profit split, trader receives $2,400. Remaining $7,000 stays as balance.
+
+News Trading Policy
+News trading IS permitted in both the evaluations and sim funded stages.
+
+Scaling Rules (Simulated Funded Stage Only)
+Contract limits follow account balance, these updated EOD:
+Balance        Minis   Micros
+Below $1,000      1         10
+$1,000 – $2,000   2         20
+Above $2,000      3         30
+
+Register for MFFU here.
+Need Help?
+If you have questions about the Flex Add-On or your Core Plan, please reach out to us. We’re here to support your trading journey.
+Related Articles
+Payout Policy Overview, Best and Fastest Prop-Firm Payouts
+Core Plan Sim-Funded and Live Account Highlights
+Changes at MyFunded Futures
+Flex - 50k Scale Plan Add-On
+Scale Plan - Rapid Add-on

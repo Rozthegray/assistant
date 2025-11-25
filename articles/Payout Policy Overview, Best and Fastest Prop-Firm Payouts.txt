@@ -1,0 +1,81 @@
+Here’s a clean, organized version of the **MyFunded Futures Payout Policy Overview**—all details preserved for easy reference:
+
+***
+
+## MyFunded Futures Payout Policy Overview
+**Best and Fastest Prop-Firm Payouts**
+
+### General
+- **Most payout requests** are approved instantly!
+- Payouts are structured to reward strong performance across all plan types.
+
+***
+
+### Core Plan (50k) Payouts
+- **Earn up to $5,000**
+- Request payout after **5 winning days**, with at least **$100 net profit per day**
+- **Minimum withdrawal:** $250
+- **Maximum per request:** $1,000
+- **Max Loss Limit:** Locks at starting balance + $100 ($50,100) after first payout
+- **Processing time:** Instant (manual review up to 6–12 business hours weekdays)
+
+***
+
+### Scale Plan Payouts
+- **Earn up to $11,250**
+- Request payout after **5 winning days** with daily profit minimum by size:
+  - 50k: $100/day
+  - 100k: $200/day
+  - 150k: $300/day
+- **Tiered payout limits (per request):**
+
+| Payout # | 50k Max | 100k Max | 150k Max |
+|----------|---------|----------|----------|
+| 1        | $1,500  | $3,000   | $4,500   |
+| 2        | $1,750  | $3,500   | $5,250   |
+| 3        | $2,000  | $4,000   | $6,000   |
+| 4        | $2,500  | $4,500   | $6,750   |
+| 5        | $3,500  | $5,000   | $7,500   |
+
+- **Max Loss Limit:** Resets to starting balance + $100 after first payout
+- **Minimum withdrawal:** $250
+
+***
+
+### Pro Plan Payouts
+- **Request up to $100,000**
+- Request payout every **14 days** from first trade
+- **Buffer target required:**
+  - 50k: $2,100
+  - 100k: $3,100
+  - 150k: $4,600
+- **Max Loss Limit:** Locks to starting balance + $100 after first payout
+- **While in buffer:** Withdraw up to 60% of profits before clearing target
+- **Minimum withdrawal:** $1,000
+- **Maximum request (Sim-Funded):** $100,000
+
+***
+
+### Profit Split Structure
+- **Core, Scale, Pro**: *Earn 80% of all profits*
+- Payouts are request-based, follow plan-specific timing
+
+***
+
+### Account Lifecycle & Live Transition
+- **Core & Scale Plans:** Go Live after 5 consecutive payouts or 30 profitable trading days
+- **Pro Plan:** Go Live after 3 consecutive payouts or $20,000 profit milestone (risk team may fast-track)
+- Excess profits > $100,000 Sim cap: can be transitioned to Live (per plan limits)
+
+***
+
+### Why Choose MyFundedFutures?
+- **No daily loss limits** on Core, Scale, Pro
+- **Transparent, rules-based payout system**
+- **Fastest futures prop-firm payouts**
+- **Clear progression from Sim to Live accounts**
+- **Trusted by 70,000+ traders**
+
+***
+
+Let me know if you need this downloadable as a TXT file or want the information arranged for any other use!
