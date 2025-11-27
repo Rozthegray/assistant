@@ -1,0 +1,74 @@
+Drawdown, Rapid Add-on, Scaling, Order Quantity, Contracts Limits
+
+1. Q: 50k scale rapid funded, got liquidated before my stop got hit saying i hit my min balance but i had another 200 before i shouldve got liquidated
+   A: Please note that the Rapid add-on accounts use intraday drawdown.
+
+2. Q: Please note that the Rapid add-on accounts use intraday drawdown.
+   A: Your maximum loss limit trails your realized and unrealized gains.
+
+3. Q: Your maximum loss limit trails your realized and unrealized gains.
+   A: If your open trade moves up $1000 in profit your maximum loss limit also trails and moves up $1000.
+
+4. Q: If your open trade moves up $1000 in profit your maximum loss limit also trails and moves up $1000.
+   A: For example, your equity balance moves to $51,000 your drawdown would also trail $49,000 immediately and it becomes your maximum loss limit.
+
+5. Q: On the Rapid add-on plan, during the sim funded stage it uses the intraday drawdown.
+   A: Which means your drawdown trails up with profit but would remain stale with losses. Instead of waiting till EOD for the drawdown to trail with realized profit, the intraday drawdown trails up even with unrealized profits.
+
+6. Q: For example, your equity balance moves to $51,000 your drawdown would also trail $49,000 immediately and it becomes your maximum loss limit.
+   A: At any point if your equity balance hits the trailed drawdown amount even in open trades it would lead to a breach of maximum loss.
+
+7. Q: Can I do 3 micro and 2 mini giving a total of 5 contracts is that how it works?
+   A: Yes you can. 5minis = 5 micros on the original account.
+
+8. Q: On 50k core evaluation, what's max micro contract?
+   A: You can use up to 3mini or 30 micro in your 50k core evaluation. There is no scaling rule during evaluation.
+
+9. Q: Max 5 micros allowed under $1000 profit in core sim funded.. i traded 6 by mistake, is that a problem? Is it breach?
+   A: What account type are you trading?
+
+10. Q: Can I trade YM? why cannot trade YM?
+    A: We've made some adjustments, so here’s how to fix the delayed data: Go to billing, upgrade level 1 data etc.
+
+11. Q: If I open more micro then my scaling rule them .?
+    A: Please see [https://help.myfundedfutures.com/en/articles/10244682-cross-instrument-policy](https://help.myfundedfutures.com/en/articles/10244682-cross-instrument-policy)
+
+12. Q: With the $50k Scale Rapid plan, can you trade the max contracts on day 1?
+    A: Yes you can, there is no scaling rule at the SIM funded phase.
+
+13. Q: With the $50k Scale Rapid plan, can you trade the max contracts on day 1?
+    A: Yes you can, there is no scaling rule at the SIM funded phase.
+
+14. Q: Is there a 50% consistency rule on evaluation stage?
+    A: There is 50% Consistency rule on evaluation stage but on sim-funded account there is no consistency rule.
+
+15. Q: What happen if i write the false email on my payout to risework
+    A: In that situation you do not get the payout as it gets sent to the wrong email.
+
+16. Q: If I have 2 50k accounts and i make 10k each account, am i getting moved to live
+    A: How much money to have to make in order for me to get moved to a live account
+
+17. Q: For example, your equity balance moves to $51,000 your drawdown would also trail $49,000 immediately and it becomes your maximum loss limit.
+    A: At any point if your equity balance hits the trailed drawdown amount even in open trades it would lead to a breach of maximum loss.
+
+18. Q: Is there a $100 leniency on 50k account?
+    A: You have a $100 leniency
+
+19. Q: Can you make 1505 and 1500 and still pass the 50k?
+    A: Yes you can
+
+20. Q: Are there scaling rules during evaluation?
+    A: There is no scaling rule during evaluation
+
+Possible question variations for the answer about "intraday drawdown trails up with unrealized profit and can cause breaches":
+
+* What is intraday drawdown?
+* Why was I liquidated before my stop hit?
+* How does the Rapid add-on drawdown work?
+* Can unrealized profit change my maximum loss limit?
+* Why did my max loss limit move up with profit?
+* Will intraday drawdown cause a breach if equity hits trailed drawdown?
+* How does trailing drawdown operate on the Rapid plan?
+* Does unrealized profit immediately affect drawdown limits?
+* What triggers a max loss breach under intraday drawdown?
+* How to avoid intraday drawdown breaches?
