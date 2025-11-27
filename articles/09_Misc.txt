@@ -1,0 +1,15 @@
+## 9. Misc
+Q: Why kicked out of trades?
+A: Auto-close at 4:10 PM EST.
+
+Q: Restricted news?
+A: t1-news.
+
+Q: Locked out of MFF accounts?
+A: dxFeed feature.
+
+Q: VolumeTrica free?
+A: Level 1 data.
+
+Q: Pro vs Core?
+A: Provided by mods' charts.

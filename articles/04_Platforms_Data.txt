@@ -1,0 +1,25 @@
+## 4. Platforms & Data
+Q: DeepCharts / ATAS?
+A: Depends on platform chosen.
+
+Q: What supports DeepCharts?
+A: Volsys.
+
+Q: Volbook?
+A: dxFeed.
+
+Q: Is ATAS free?
+A:
+- 3 months free: https://atas.net/pricing/#1month
+
+Q: Need ATAS subscription?
+A: Not for Level 1 data.
+
+Q: What is free Level 1?
+A: Basic market price + liquidity.
+
+Q: Fix delayed data GC?
+A:
+1. https://myfundedfutures.com/billing
+2. Upgrade exchange
+3. Wait + relogin

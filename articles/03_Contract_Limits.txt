@@ -1,0 +1,15 @@
+## 3. Contract Limits / Position Sizing
+Q: 50k Pro funded — 3 micros + 2 minis?
+A: Yes.
+
+Q: Max 5 micros allowed but traded 6?
+A: Depends on account type.
+
+Q: If exceed scaling rule?
+A: Cross Instrument Policy: https://help.myfundedfutures.com/en/articles/10244682-cross-instrument-policy
+
+Q: “Maximum order quantity met. Limit:0”
+A: You hit contract limit—request risk change.
+
+Q: Scale Rapid max contracts on Day 1?
+A: Yes.

@@ -1,0 +1,9 @@
+## 2. Rapid Add-On / Intraday Drawdown
+Q: 50k Scale Rapid funded liquidation?
+A: Uses intraday trailing drawdown—unrealized profits trail DD immediately.
+
+Example:
+- Equity 51,000 → DD trails to 49,000.
+
+Q: More info?
+A: https://help.myfundedfutures.com/en/articles/12802721-intraday-drawdown-explained

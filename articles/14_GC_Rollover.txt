@@ -1,0 +1,18 @@
+## GC Rollover
+Q18: What’s happening?
+A: Contract rollover.
+
+Q19: Which contract?
+A: GCG6.
+
+Q20: Gaps on TradingView?
+A: Due to rollover.
+
+Q21: Confirm contract?
+A: CME link + TradingView volume.
+
+Q22: Switch manually?
+A: Yes to GCG6.
+
+Q23: Contact?
+A: MFF support.

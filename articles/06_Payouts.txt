@@ -1,0 +1,18 @@
+## 6. Payouts
+Q: Daily payout limit?
+A: $100k cap per user.
+
+Q: Flex add-on $3k?
+A: Withdraw $3k up to 5 times then go live.
+
+Q: Scale Rapid payout?
+A: Up to $100k per user.
+
+Q: Holiday payout delays?
+A: Manual payouts resume Monday.
+
+Q: ACH vs RiseWorks?
+A: 6–12 hrs.
+
+Q: Monthly fee removed after passing?
+A: Yes.
